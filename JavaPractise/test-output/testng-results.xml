@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11241" started-at="2017-10-24T11:57:34Z" finished-at="2017-10-24T11:57:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11241" started-at="2017-10-24T11:57:34Z" finished-at="2017-10-24T11:57:46Z">
+      <class name="homePractise2.AssertionUsingTestNG">
+        <test-method status="PASS" signature="eVerification()[pri:0, instance:homePractise2.AssertionUsingTestNG@224edc67]" name="eVerification" duration-ms="11180" started-at="2017-10-24T06:57:35Z" finished-at="2017-10-24T06:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eVerification -->
+      </class> <!-- homePractise2.AssertionUsingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
