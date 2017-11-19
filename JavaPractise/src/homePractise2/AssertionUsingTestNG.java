@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
 public class AssertionUsingTestNG {
 	
 WebDriver oBrowser;
-	
+	// changing for github practise
 	public void openBrowser(String soBrowser,String sURL)
 	{
 		if(soBrowser.equals("Chrome"))
